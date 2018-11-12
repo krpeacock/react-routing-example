@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel": "^1.10.3",
+    "sass": "^1.14.3"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "styled-components": "^4.0.3"
+  }
+}
